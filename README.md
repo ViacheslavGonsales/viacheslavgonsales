@@ -146,18 +146,7 @@
   > Баг-репорты
   >
   > Отчёт о тестировании
-* Написание тест-кейсов, чек-листов, тест-планов
-* Поиск, документирование и анализ багов (Jira, Trello, TestRail)
-* Функциональное, регрессионное, UI, кросс-браузерное тестирование
-* Работа с DevTools (Chrome, Firefox)
-* Базовые знания SQL (SELECT, JOIN)
-* Тестирование API (Postman)
-* Чтение логов, работа с Git
-* Основы автоматизированного тестирования (Robot Framework, Selenium)
-* Методологии разработки: Agile, Scrum, Kanban
-
-
-### Tools
+* Использование инструментов для тестирования
 
 ![Java](https://img.shields.io/badge/Java-3eade0?style=for-the-badge&logo=Java&logoColor=ecf1f3)
 ![Python](https://img.shields.io/badge/Python-b2a408?style=for-the-badge&logo=Python&logoColor=ecf1f3)
