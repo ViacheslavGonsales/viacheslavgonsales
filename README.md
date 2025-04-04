@@ -10,8 +10,15 @@
 * Телефон, Telegram, WhatsApp: +7(978)0450-17-60
 
 * email: kolynik07@gmail.com
+<br>
 
-Education
+## Образование:
+### 1. Севастопольский национальный технический университет (2006 - 2011) 
+   
+   Специальность: "Компьютерные систмы и сети" с присвоением квалификации инженера-системотехника
+   
+   [Ссылка на диплом](https://drive.google.com/drive/folders/16CJYFUHMl4fpQxXCqjZR0rEOs7n8eZFJ?usp=sharing)
+<br>
 
 Experiense
 
