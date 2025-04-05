@@ -8,7 +8,7 @@
 
 ### Контакты:
 * Телефон: +7(978)045-17-60
-* Telegram:   [перейти](https://t.me/@ViachesLOVE69) 
+* Telegram:   [перейти](https://t.me/ViachesLOVE69) 
 * WhatsApp:   [перейти](http://wa.me/79780451760)
 
 * email: kolynik07@gmail.com
