@@ -7,9 +7,9 @@
 Дата рождения: 29.06.1987г.
 
 ### Контакты:
-Телефон: +7(978)045-17-60
+:phone: &nbsp; +7(978)045-17-60
 
-mail:   kolynik07@gmail.com
+:incoming_envelope: &nbsp;  kolynik07@gmail.com
 
 [![Telegram](https://img.shields.io/badge/-Telegram-0d8ee9?style=for-the-badge&logo=telegram&logoColor=042f4e)](https://t.me/ViachesLOVE69)
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-07a433?style=for-the-badge&logo=WhatsApp&logoColor=023a12)](http://wa.me/79780451760)
