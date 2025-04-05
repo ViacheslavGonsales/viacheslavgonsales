@@ -7,11 +7,12 @@
 Дата рождения: 29.06.1987г.
 
 ### Контакты:
-* Телефон: +7(978)045-17-60
-* Telegram:   [перейти](https://t.me/ViachesLOVE69) 
-* WhatsApp:   [перейти](http://wa.me/79780451760)
+Телефон: +7(978)045-17-60
 
-* email: kolynik07@gmail.com
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/ViachesLOVE69)
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-090909?style=for-the-badge&logo=WhatsApp&logoColor=27A0D9)](http://wa.me/79780451760)
+[![Gmail](https://img.shields.io/badge/-Gmail-090909?style=for-the-badge&logo=Gmail&logoColor=27A0D9)](kolynik07@gmail.com)
+
 <br>
 
 ## Образование:
