@@ -7,7 +7,9 @@
 Дата рождения: 29.06.1987г.
 
 ### Контакты:
-* Телефон, Telegram, WhatsApp: +7(978)045-17-60
+* Телефон: +7(978)045-17-60
+* Telegram: 
+* WhatsApp:
 
 * email: kolynik07@gmail.com
 <br>
