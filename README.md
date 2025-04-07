@@ -85,7 +85,7 @@
 
 <https://brainy.run/>
 * Cпециализации:
-  - Автоматизация веб-тестирования с Robot Framework:
+  + Автоматизация веб-тестирования с Robot Framework:
     > Создание и настройка проекта в VSCode: [ссылка на работу](https://drive.google.com/drive/folders/1kxWos86_dbiD-sqdu9Ej0YqPUgd2APp4?usp=sharing)
     >
     > Клики и ожидания: [ссылка на работу](https://drive.google.com/drive/folders/13qKfv4zt668zH0_nmzfNuqqJOYJgf5Lo?usp=sharing)
@@ -116,7 +116,11 @@
     >
     Сертификат о завершении курса: [ссылка](https://drive.google.com/drive/folders/17RAk5DNxCFP5zs3sfZUPjHmnDQ7CSmNx?usp=sharing)
   
-  - Автоматизация мобильного тестирования с Robot Framework
+  + Автоматизация мобильного тестирования с Robot Framework:
+    > Знакомство, установка и настройка инструментов (Java JDK, Android Studio, Homebrew, VS Code): [ссылка на работу](https://drive.google.com/drive/folders/1HNRnHejGG8T4WFPboVSIl9LIVgDwMS-8?usp=sharing)
+    >
+    > 
+    > 
  
 ### 3. Менджер по продажам бытовой, мелкобытовой и цифровой техники
    > Качественная консультация клиентов
