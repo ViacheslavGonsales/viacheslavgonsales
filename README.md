@@ -120,6 +120,9 @@
     > Знакомство, установка и настройка инструментов (Java JDK, Android Studio, Homebrew, VS Code): [ссылка на работу](https://drive.google.com/drive/folders/1HNRnHejGG8T4WFPboVSIl9LIVgDwMS-8?usp=sharing)
     >
     > Первый автотест: Запуск и закрытие приложения через эмулятор телефона: [ссылка на работу](https://drive.google.com/drive/folders/1Frsvi5TVeQGxDIHPzPmdOzDfqZQp3BnR?usp=sharing)
+    >
+    > Построение архитектуры автотеста: [ссылка на работу](https://drive.google.com/drive/folders/1RkFtNUQ9_-mDQifLopIy038U3ByoBgxU?usp=sharing)
+    >
     > 
  
 ### 3. Менджер по продажам бытовой, мелкобытовой и цифровой техники
