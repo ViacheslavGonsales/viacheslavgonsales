@@ -125,6 +125,8 @@
     >
     > Построение архитектуры автотеста: [ссылка на работу](https://drive.google.com/drive/folders/1RkFtNUQ9_-mDQifLopIy038U3ByoBgxU?usp=sharing)
     >
+    > Установка и знакомство с Appium Inspector: [ссылка на работу](https://drive.google.com/drive/folders/1pCuyCvKACK5Z4XBwc-OEf6ZAJdBE3en6?usp=sharing)
+    >
     > 
  
 ### 3. Менджер по продажам бытовой, мелкобытовой и цифровой техники
